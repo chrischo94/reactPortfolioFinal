@@ -12,9 +12,8 @@ return (
     <Container>
       <Row>
         <h4 id="about-me">About Me</h4>
-        <p>Christopher Cho is a recent graduate of the University of California: Los Angeles, and has a BA in Sociology.
-          He resides in Seoul, South Korea, where he is currently working for a headhunting firm for executive positions.
-          Christopher is also fluent in Korean and English, and he is proficient in Adobe Photoshop, React, MongoDB, and CSS.</p>
+        <p>I am a graduate of the University of California, Los Angeles with a BA in Sociology. Currently, I work for a recruiting firm that specializes in placing executive-level candidates in Fortune 500 companies.
+        I am also fluent in Korean and am proficient in Adobe Photoshop, React, MongoDB, and CSS.</p>
       </Row>
       <hr></hr>
       <Row>
