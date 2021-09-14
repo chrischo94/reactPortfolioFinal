@@ -10,11 +10,12 @@ return (
   <div>
     <Header />
     <Container>
-      <Card />
+     
       <Row>
         <h4 id="about-me">About Me</h4>
         <p>I am a graduate of the University of California, Los Angeles with a BA in Sociology. Currently, I am working for a recruiting firm that specializes in placing executive-level candidates in Fortune 500 companies.
         I am also fluent in Korean and proficient in React, MongoDB, SQL, NoSQL, CSS, and Adobe Photoshop.</p>
+        <Card />
       </Row>
       <hr></hr>
       <Row>
