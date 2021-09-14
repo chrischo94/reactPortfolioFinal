@@ -10,7 +10,7 @@ function Card() {
             <Row>
                 
                 <Col xs={6} md={4}>
-                <Image src="../../../assets/images/me.JPG" roundedCircle />
+                <Image src={require(`../../../assets/images/audiofreq.JPG`)} roundedCircle />
                 </Col>
                 
             </Row>
