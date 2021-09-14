@@ -7,17 +7,11 @@ import "../../../assets/images/me.JPG"
 
 function Card() {
     return (
-        <Container>
-            <Row>
-                
-                <Col xs={6} md={4}>
-                    <Image src={require(`../../assets/images/me.JPG`).default}
-              alt="photo of myself" roundedCircle/>
+     
+    <Image src={require(`../../assets/images/me.JPG`).default}
+    alt="photo of myself" roundedCircle />
 
-                </Col>
                 
-            </Row>
-        </Container>
     );
 }
 
