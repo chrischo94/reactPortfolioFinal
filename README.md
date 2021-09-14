@@ -7,7 +7,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * 
+  
   ## Installation
   run npm i in terminal. Then run npm run start.
 
@@ -19,6 +19,7 @@
 
   ## Demo
   <img src="src/assets/images/ezgif.com-gif-maker(3).gif">
+  https://react-portfolio-final.herokuapp.com/
 
   ## Questions
   For additional questions feel free to contact: chrischo2012@gmail.com
