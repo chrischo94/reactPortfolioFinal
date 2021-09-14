@@ -2,6 +2,7 @@ import React from "react";
 import Header from "../components/Header";
 import Project from "../components/Project"
 import Footer from "../components/Footer"
+import Card from "../components/Card"
 import { Row } from "react-bootstrap";
 import { Col } from "react-bootstrap";
 import { Container } from "react-bootstrap";
